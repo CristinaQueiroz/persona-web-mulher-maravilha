@@ -1,0 +1,40 @@
+body{
+    background-color: #F2F2F2;
+    color: ;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #974747;
+}
+
+div{
+    background-color: #ffff;
+    padding: 20px;
+    margin: 20px 100px;
+    border-radius: 15px;
+    box-shadow: 6px 5px 5px rgba(59, 58, 58, 0.678) ;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.img img{
+    height: 450px;
+    margin-top: -250px;
+    border-radius: 50%;
+    box-shadow: 6px 5px 5px rgba(59, 58, 58, 0.678) ;
+}
+
+.introducao{
+    margin-top: 300px;
+}
+
+footer{
+    background-color: #ffff;
+    text-align: center;
+    padding: 10px 0px;
+}
